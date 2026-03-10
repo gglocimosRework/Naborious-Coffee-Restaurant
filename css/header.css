@@ -3,6 +3,7 @@ header {
     padding: 20px 1.5%;
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
     align-items: center;
 }
 
@@ -28,7 +29,7 @@ header h1 {
     height: 85px;
     object-fit: contain;
 }
-nav ul {
+nav  {
     list-style: none;
     display: flex;
     gap: 25px;
@@ -85,10 +86,10 @@ nav a:hover::after {
 }
 
 #menu-wrapper {
-    position: relative;
+   margin-right: 10px;
 }
 
-.about-path, .menu-toggle {
+.menu-toggle {
     font-weight: 500;
 }
 
