@@ -11,7 +11,7 @@ This project is a work-in-progress and will be updated with new features and sec
 
 ## How to view
 1. Clone the repository:
-```bash
+
 git clone https://github.com/gglocimosRework/Naborious-Coffee-Restaurant.git
 2. Open Naborious-coffee.html in your browser or view the live site here:
 
